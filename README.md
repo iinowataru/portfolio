@@ -31,6 +31,10 @@ https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee　Rspec
 - IDE：Cloud9
 
 ## 使用素材
-(実際の商品（缶コーヒー等）の商品名と画像を使用する予定です、著作権の問題がある場合テーマを変更します）
+仮想の商品を使って実装予定（商品画像はメーカー、商品名の箇所を加工、もしくはフリーのイラストを使用）
 
-##専門技術コースクラウドコース受講予定
+##その他備考
+専門技術コースクラウドコース受講予定
+
+##チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/198RIQxjFJIH9OZRTiiT5VC5YlpKWkZLxtGjTXQMCfiY/edit#gid=0
