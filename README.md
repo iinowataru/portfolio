@@ -33,8 +33,8 @@ https://qiita.com/tatsurou313/items/c923338d2e3c07dfd9ee　Rspec
 ## 使用素材
 仮想の商品を使って実装予定（商品画像はメーカー、商品名の箇所を加工、もしくはフリーのイラストを使用）
 
-##その他備考
+その他備考
 専門技術コースクラウドコース受講予定
 
-##チャレンジ要素一覧
+チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/198RIQxjFJIH9OZRTiiT5VC5YlpKWkZLxtGjTXQMCfiY/edit#gid=0
